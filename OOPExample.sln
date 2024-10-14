@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPExample", "OOPExample\OOPExample.csproj", "{49ACA21F-FFB3-48EF-92B0-5C69A9ACCEB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumberOOP", "RationalNumberOOP\RationalNumberOOP.csproj", "{777B7270-A84D-4C8E-ABEE-55E1C1B06566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49ACA21F-FFB3-48EF-92B0-5C69A9ACCEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ACA21F-FFB3-48EF-92B0-5C69A9ACCEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ACA21F-FFB3-48EF-92B0-5C69A9ACCEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ACA21F-FFB3-48EF-92B0-5C69A9ACCEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777B7270-A84D-4C8E-ABEE-55E1C1B06566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777B7270-A84D-4C8E-ABEE-55E1C1B06566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777B7270-A84D-4C8E-ABEE-55E1C1B06566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777B7270-A84D-4C8E-ABEE-55E1C1B06566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0523A2EE-2653-4F15-8862-FF6C513D7B86}
+	EndGlobalSection
+EndGlobal
