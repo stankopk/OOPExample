@@ -33,6 +33,11 @@ namespace RationalNumberOOP
             denumerator = d / gcd;
         }
 
+        public void Example()
+        {
+            //This is just an example method
+        }
+
         public ulong GCD(ulong a, ulong b)
         {
             while (a != 0 && b != 0)

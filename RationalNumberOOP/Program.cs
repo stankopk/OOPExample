@@ -19,7 +19,6 @@ namespace RationalNumberOOP
                 var d = double.Parse(Console.ReadLine());
                 RationalNumber rn = new RationalNumber(n,d);
                 list.Add(rn);
-                
             }
 
             //output
